@@ -1,5 +1,3 @@
-Here is the introduction
-
 GitHub is an online hosting platform for version control. 
 
 I am adding more changes. 
