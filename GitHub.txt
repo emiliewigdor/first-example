@@ -5,3 +5,7 @@ I am adding more changes.
 All changes deleted. A part from this one.
 
 I made a change in RStudio. 
+
+Adding a second change in RStudio. 
+
+Adding a third change to see what it does. 
